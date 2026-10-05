@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "nhiSourceURL": "https://www.nhi.gov.tw/ch/np-2478-1.html",
   "years": [
     {
@@ -75,7 +75,89 @@
       "specialDeductionPhaseOutRate": 0.2,
       "basicIncomePhaseOut": 7500000,
       "laborSourceURL": "https://www.bli.gov.tw/0100000.html",
-      "nhiPremiumSourceURL": "https://www.nhi.gov.tw/ch/np-2478-1.html"
+      "nhiPremiumSourceURL": "https://www.nhi.gov.tw/ch/np-2478-1.html",
+      "socialInsurance": {
+        "labor": {
+          "rateOrdinaryPlusEmployment": 0.125,
+          "employeeShare": 0.2,
+          "grades": [
+            {
+              "salaryUpTo": 27470,
+              "insured": 27470
+            },
+            {
+              "salaryUpTo": 28800,
+              "insured": 28800
+            },
+            {
+              "salaryUpTo": 30300,
+              "insured": 30300
+            },
+            {
+              "salaryUpTo": 31800,
+              "insured": 31800
+            },
+            {
+              "salaryUpTo": 33300,
+              "insured": 33300
+            },
+            {
+              "salaryUpTo": 34800,
+              "insured": 34800
+            },
+            {
+              "salaryUpTo": 36300,
+              "insured": 36300
+            },
+            {
+              "salaryUpTo": 38200,
+              "insured": 38200
+            },
+            {
+              "salaryUpTo": 40100,
+              "insured": 40100
+            },
+            {
+              "salaryUpTo": 42000,
+              "insured": 42000
+            },
+            {
+              "salaryUpTo": 43900,
+              "insured": 43900
+            },
+            {
+              "salaryUpTo": null,
+              "insured": 45800
+            }
+          ],
+          "sourceURL": "https://www.bli.gov.tw/0005475.htm"
+        },
+        "nhi": {
+          "rate": 0.0517,
+          "employeeShare": 0.3,
+          "dependentCap": 3,
+          "grades": [
+            {
+              "salaryUpTo": null,
+              "insured": 27470
+            }
+          ],
+          "sourceURL": "https://www.nhi.gov.tw/ch/cp-19422-c534e-2569-1.html",
+          "notes": "待補"
+        },
+        "pension": {
+          "employerStatutoryRate": 0.06,
+          "employeeVoluntaryMax": 0.06,
+          "grades": [
+            {
+              "salaryUpTo": null,
+              "insured": 27470
+            }
+          ],
+          "sourceURL": "https://www.bli.gov.tw/0013083.html",
+          "notes": "待補"
+        }
+      }
     },
     {
       "year": 114,
@@ -149,7 +231,85 @@
       "specialDeductionPhaseOutRate": 0.2,
       "basicIncomePhaseOut": 7500000,
       "laborSourceURL": "https://www.bli.gov.tw/0100000.html",
-      "nhiPremiumSourceURL": "https://www.nhi.gov.tw/ch/np-2478-1.html"
+      "nhiPremiumSourceURL": "https://www.nhi.gov.tw/ch/np-2478-1.html",
+      "socialInsurance": {
+        "labor": {
+          "rateOrdinaryPlusEmployment": 0.125,
+          "employeeShare": 0.2,
+          "grades": [
+            {
+              "salaryUpTo": 28590,
+              "insured": 28590
+            },
+            {
+              "salaryUpTo": 30300,
+              "insured": 30300
+            },
+            {
+              "salaryUpTo": 31800,
+              "insured": 31800
+            },
+            {
+              "salaryUpTo": 33300,
+              "insured": 33300
+            },
+            {
+              "salaryUpTo": 34800,
+              "insured": 34800
+            },
+            {
+              "salaryUpTo": 36300,
+              "insured": 36300
+            },
+            {
+              "salaryUpTo": 38200,
+              "insured": 38200
+            },
+            {
+              "salaryUpTo": 40100,
+              "insured": 40100
+            },
+            {
+              "salaryUpTo": 42000,
+              "insured": 42000
+            },
+            {
+              "salaryUpTo": 43900,
+              "insured": 43900
+            },
+            {
+              "salaryUpTo": null,
+              "insured": 45800
+            }
+          ],
+          "sourceURL": "https://www.bli.gov.tw/0005475.htm"
+        },
+        "nhi": {
+          "rate": 0.0517,
+          "employeeShare": 0.3,
+          "dependentCap": 3,
+          "grades": [
+            {
+              "salaryUpTo": null,
+              "insured": 28590
+            }
+          ],
+          "sourceURL": "https://www.nhi.gov.tw/ch/cp-19422-c534e-2569-1.html",
+          "notes": "待補"
+        },
+        "pension": {
+          "employerStatutoryRate": 0.06,
+          "employeeVoluntaryMax": 0.06,
+          "grades": [
+            {
+              "salaryUpTo": null,
+              "insured": 28590
+            }
+          ],
+          "sourceURL": "https://www.bli.gov.tw/0013083.html",
+          "notes": "待補"
+        }
+      }
     },
     {
       "year": 115,
@@ -224,7 +384,555 @@
       "specialDeductionPhaseOutRate": 0.2,
       "basicIncomePhaseOut": 7500000,
       "laborSourceURL": "https://www.bli.gov.tw/0100000.html",
-      "nhiPremiumSourceURL": "https://www.nhi.gov.tw/ch/np-2478-1.html"
+      "nhiPremiumSourceURL": "https://www.nhi.gov.tw/ch/np-2478-1.html",
+      "socialInsurance": {
+        "labor": {
+          "rateOrdinaryPlusEmployment": 0.125,
+          "employeeShare": 0.2,
+          "grades": [
+            {
+              "salaryUpTo": 29500,
+              "insured": 29500
+            },
+            {
+              "salaryUpTo": 30300,
+              "insured": 30300
+            },
+            {
+              "salaryUpTo": 31800,
+              "insured": 31800
+            },
+            {
+              "salaryUpTo": 33300,
+              "insured": 33300
+            },
+            {
+              "salaryUpTo": 34800,
+              "insured": 34800
+            },
+            {
+              "salaryUpTo": 36300,
+              "insured": 36300
+            },
+            {
+              "salaryUpTo": 38200,
+              "insured": 38200
+            },
+            {
+              "salaryUpTo": 40100,
+              "insured": 40100
+            },
+            {
+              "salaryUpTo": 42000,
+              "insured": 42000
+            },
+            {
+              "salaryUpTo": 43900,
+              "insured": 43900
+            },
+            {
+              "salaryUpTo": null,
+              "insured": 45800
+            }
+          ],
+          "sourceURL": "https://www.bli.gov.tw/0005475.htm"
+        },
+        "nhi": {
+          "rate": 0.0517,
+          "employeeShare": 0.3,
+          "dependentCap": 3,
+          "grades": [
+            {
+              "salaryUpTo": 29500,
+              "insured": 29500
+            },
+            {
+              "salaryUpTo": 30300,
+              "insured": 30300
+            },
+            {
+              "salaryUpTo": 31800,
+              "insured": 31800
+            },
+            {
+              "salaryUpTo": 33300,
+              "insured": 33300
+            },
+            {
+              "salaryUpTo": 34800,
+              "insured": 34800
+            },
+            {
+              "salaryUpTo": 36300,
+              "insured": 36300
+            },
+            {
+              "salaryUpTo": 38200,
+              "insured": 38200
+            },
+            {
+              "salaryUpTo": 40100,
+              "insured": 40100
+            },
+            {
+              "salaryUpTo": 42000,
+              "insured": 42000
+            },
+            {
+              "salaryUpTo": 43900,
+              "insured": 43900
+            },
+            {
+              "salaryUpTo": 45800,
+              "insured": 45800
+            },
+            {
+              "salaryUpTo": 48200,
+              "insured": 48200
+            },
+            {
+              "salaryUpTo": 50600,
+              "insured": 50600
+            },
+            {
+              "salaryUpTo": 53000,
+              "insured": 53000
+            },
+            {
+              "salaryUpTo": 55400,
+              "insured": 55400
+            },
+            {
+              "salaryUpTo": 57800,
+              "insured": 57800
+            },
+            {
+              "salaryUpTo": 60800,
+              "insured": 60800
+            },
+            {
+              "salaryUpTo": 63800,
+              "insured": 63800
+            },
+            {
+              "salaryUpTo": 66800,
+              "insured": 66800
+            },
+            {
+              "salaryUpTo": 69800,
+              "insured": 69800
+            },
+            {
+              "salaryUpTo": 72800,
+              "insured": 72800
+            },
+            {
+              "salaryUpTo": 76500,
+              "insured": 76500
+            },
+            {
+              "salaryUpTo": 80200,
+              "insured": 80200
+            },
+            {
+              "salaryUpTo": 83900,
+              "insured": 83900
+            },
+            {
+              "salaryUpTo": 87600,
+              "insured": 87600
+            },
+            {
+              "salaryUpTo": 92100,
+              "insured": 92100
+            },
+            {
+              "salaryUpTo": 96600,
+              "insured": 96600
+            },
+            {
+              "salaryUpTo": 101100,
+              "insured": 101100
+            },
+            {
+              "salaryUpTo": 105600,
+              "insured": 105600
+            },
+            {
+              "salaryUpTo": 110100,
+              "insured": 110100
+            },
+            {
+              "salaryUpTo": 115500,
+              "insured": 115500
+            },
+            {
+              "salaryUpTo": 120900,
+              "insured": 120900
+            },
+            {
+              "salaryUpTo": 126300,
+              "insured": 126300
+            },
+            {
+              "salaryUpTo": 131700,
+              "insured": 131700
+            },
+            {
+              "salaryUpTo": 137100,
+              "insured": 137100
+            },
+            {
+              "salaryUpTo": 142500,
+              "insured": 142500
+            },
+            {
+              "salaryUpTo": 147900,
+              "insured": 147900
+            },
+            {
+              "salaryUpTo": 150000,
+              "insured": 150000
+            },
+            {
+              "salaryUpTo": 156400,
+              "insured": 156400
+            },
+            {
+              "salaryUpTo": 162800,
+              "insured": 162800
+            },
+            {
+              "salaryUpTo": 169200,
+              "insured": 169200
+            },
+            {
+              "salaryUpTo": 175600,
+              "insured": 175600
+            },
+            {
+              "salaryUpTo": 182000,
+              "insured": 182000
+            },
+            {
+              "salaryUpTo": 189500,
+              "insured": 189500
+            },
+            {
+              "salaryUpTo": 197000,
+              "insured": 197000
+            },
+            {
+              "salaryUpTo": 204500,
+              "insured": 204500
+            },
+            {
+              "salaryUpTo": 212000,
+              "insured": 212000
+            },
+            {
+              "salaryUpTo": 219500,
+              "insured": 219500
+            },
+            {
+              "salaryUpTo": 228200,
+              "insured": 228200
+            },
+            {
+              "salaryUpTo": 236900,
+              "insured": 236900
+            },
+            {
+              "salaryUpTo": 245600,
+              "insured": 245600
+            },
+            {
+              "salaryUpTo": 254300,
+              "insured": 254300
+            },
+            {
+              "salaryUpTo": 263000,
+              "insured": 263000
+            },
+            {
+              "salaryUpTo": 273000,
+              "insured": 273000
+            },
+            {
+              "salaryUpTo": 283000,
+              "insured": 283000
+            },
+            {
+              "salaryUpTo": 293000,
+              "insured": 293000
+            },
+            {
+              "salaryUpTo": 303000,
+              "insured": 303000
+            },
+            {
+              "salaryUpTo": null,
+              "insured": 313000
+            }
+          ],
+          "sourceURL": "https://www.nhi.gov.tw/ch/cp-19422-c534e-2569-1.html"
+        },
+        "pension": {
+          "employerStatutoryRate": 0.06,
+          "employeeVoluntaryMax": 0.06,
+          "grades": [
+            {
+              "salaryUpTo": 1500,
+              "insured": 1500
+            },
+            {
+              "salaryUpTo": 3000,
+              "insured": 3000
+            },
+            {
+              "salaryUpTo": 4500,
+              "insured": 4500
+            },
+            {
+              "salaryUpTo": 6000,
+              "insured": 6000
+            },
+            {
+              "salaryUpTo": 7500,
+              "insured": 7500
+            },
+            {
+              "salaryUpTo": 8700,
+              "insured": 8700
+            },
+            {
+              "salaryUpTo": 9900,
+              "insured": 9900
+            },
+            {
+              "salaryUpTo": 11100,
+              "insured": 11100
+            },
+            {
+              "salaryUpTo": 12540,
+              "insured": 12540
+            },
+            {
+              "salaryUpTo": 13500,
+              "insured": 13500
+            },
+            {
+              "salaryUpTo": 15840,
+              "insured": 15840
+            },
+            {
+              "salaryUpTo": 16500,
+              "insured": 16500
+            },
+            {
+              "salaryUpTo": 17280,
+              "insured": 17280
+            },
+            {
+              "salaryUpTo": 17880,
+              "insured": 17880
+            },
+            {
+              "salaryUpTo": 19047,
+              "insured": 19047
+            },
+            {
+              "salaryUpTo": 20008,
+              "insured": 20008
+            },
+            {
+              "salaryUpTo": 21009,
+              "insured": 21009
+            },
+            {
+              "salaryUpTo": 22000,
+              "insured": 22000
+            },
+            {
+              "salaryUpTo": 23100,
+              "insured": 23100
+            },
+            {
+              "salaryUpTo": 24000,
+              "insured": 24000
+            },
+            {
+              "salaryUpTo": 25250,
+              "insured": 25250
+            },
+            {
+              "salaryUpTo": 26400,
+              "insured": 26400
+            },
+            {
+              "salaryUpTo": 27600,
+              "insured": 27600
+            },
+            {
+              "salaryUpTo": 28590,
+              "insured": 28590
+            },
+            {
+              "salaryUpTo": 29500,
+              "insured": 29500
+            },
+            {
+              "salaryUpTo": 30300,
+              "insured": 30300
+            },
+            {
+              "salaryUpTo": 31800,
+              "insured": 31800
+            },
+            {
+              "salaryUpTo": 33300,
+              "insured": 33300
+            },
+            {
+              "salaryUpTo": 34800,
+              "insured": 34800
+            },
+            {
+              "salaryUpTo": 36300,
+              "insured": 36300
+            },
+            {
+              "salaryUpTo": 38200,
+              "insured": 38200
+            },
+            {
+              "salaryUpTo": 40100,
+              "insured": 40100
+            },
+            {
+              "salaryUpTo": 42000,
+              "insured": 42000
+            },
+            {
+              "salaryUpTo": 43900,
+              "insured": 43900
+            },
+            {
+              "salaryUpTo": 45800,
+              "insured": 45800
+            },
+            {
+              "salaryUpTo": 48200,
+              "insured": 48200
+            },
+            {
+              "salaryUpTo": 50600,
+              "insured": 50600
+            },
+            {
+              "salaryUpTo": 53000,
+              "insured": 53000
+            },
+            {
+              "salaryUpTo": 55400,
+              "insured": 55400
+            },
+            {
+              "salaryUpTo": 57800,
+              "insured": 57800
+            },
+            {
+              "salaryUpTo": 60800,
+              "insured": 60800
+            },
+            {
+              "salaryUpTo": 63800,
+              "insured": 63800
+            },
+            {
+              "salaryUpTo": 66800,
+              "insured": 66800
+            },
+            {
+              "salaryUpTo": 69800,
+              "insured": 69800
+            },
+            {
+              "salaryUpTo": 72800,
+              "insured": 72800
+            },
+            {
+              "salaryUpTo": 76500,
+              "insured": 76500
+            },
+            {
+              "salaryUpTo": 80200,
+              "insured": 80200
+            },
+            {
+              "salaryUpTo": 83900,
+              "insured": 83900
+            },
+            {
+              "salaryUpTo": 87600,
+              "insured": 87600
+            },
+            {
+              "salaryUpTo": 92100,
+              "insured": 92100
+            },
+            {
+              "salaryUpTo": 96600,
+              "insured": 96600
+            },
+            {
+              "salaryUpTo": 101100,
+              "insured": 101100
+            },
+            {
+              "salaryUpTo": 105600,
+              "insured": 105600
+            },
+            {
+              "salaryUpTo": 110100,
+              "insured": 110100
+            },
+            {
+              "salaryUpTo": 115500,
+              "insured": 115500
+            },
+            {
+              "salaryUpTo": 120900,
+              "insured": 120900
+            },
+            {
+              "salaryUpTo": 126300,
+              "insured": 126300
+            },
+            {
+              "salaryUpTo": 131700,
+              "insured": 131700
+            },
+            {
+              "salaryUpTo": 137100,
+              "insured": 137100
+            },
+            {
+              "salaryUpTo": 142500,
+              "insured": 142500
+            },
+            {
+              "salaryUpTo": 147900,
+              "insured": 147900
+            },
+            {
+              "salaryUpTo": null,
+              "insured": 150000
+            }
+          ],
+          "sourceURL": "https://www.bli.gov.tw/0013083.html"
+        }
+      }
     }
   ]
 }
