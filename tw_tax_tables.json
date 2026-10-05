@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "nhiSourceURL": "https://www.nhi.gov.tw/ch/np-2478-1.html",
+  "years": [
+    {
+      "year": 113,
+      "brackets": [
+        { "upTo": 590000, "rate": 0.05, "progressiveDifference": 0 },
+        { "upTo": 1330000, "rate": 0.12, "progressiveDifference": 41300 },
+        { "upTo": 2660000, "rate": 0.20, "progressiveDifference": 147700 },
+        { "upTo": 4980000, "rate": 0.30, "progressiveDifference": 413700 },
+        { "upTo": null, "rate": 0.40, "progressiveDifference": 911700 }
+      ],
+      "exemption": 97000,
+      "exemptionAge70": 145500,
+      "standardDeductionSingle": 131000,
+      "standardDeductionSpouse": 262000,
+      "salarySpecialDeductionCap": 218000,
+      "savingsInvestmentDeductionCap": 270000,
+      "basicLivingPerPerson": 210000,
+      "basicLivingProvisional": false,
+      "nhiRate": 0.0211,
+      "nhiDividendInterestRentThreshold": 20000,
+      "nhiPartTimeSalaryThreshold": 29500,
+      "nhiMaxPerPayment": 10000000,
+      "dividendCreditRate": 0.085,
+      "dividendCreditCap": 80000,
+      "dividendSeparateRate": 0.28,
+      "usWithholdingDefaultRate": 0.30,
+      "usAmtWarningThreshold": 1000000,
+      "sourceURL": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=659f0f10e9494b63b5e1c3e044847582"
+    },
+    {
+      "year": 114,
+      "brackets": [
+        { "upTo": 590000, "rate": 0.05, "progressiveDifference": 0 },
+        { "upTo": 1330000, "rate": 0.12, "progressiveDifference": 41300 },
+        { "upTo": 2660000, "rate": 0.20, "progressiveDifference": 147700 },
+        { "upTo": 4980000, "rate": 0.30, "progressiveDifference": 413700 },
+        { "upTo": null, "rate": 0.40, "progressiveDifference": 911700 }
+      ],
+      "exemption": 97000,
+      "exemptionAge70": 145500,
+      "standardDeductionSingle": 131000,
+      "standardDeductionSpouse": 262000,
+      "salarySpecialDeductionCap": 218000,
+      "savingsInvestmentDeductionCap": 270000,
+      "basicLivingPerPerson": 213000,
+      "basicLivingProvisional": false,
+      "nhiRate": 0.0211,
+      "nhiDividendInterestRentThreshold": 20000,
+      "nhiPartTimeSalaryThreshold": 29500,
+      "nhiMaxPerPayment": 10000000,
+      "dividendCreditRate": 0.085,
+      "dividendCreditCap": 80000,
+      "dividendSeparateRate": 0.28,
+      "usWithholdingDefaultRate": 0.30,
+      "usAmtWarningThreshold": 1000000,
+      "sourceURL": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=e6bfc90ed42e42ccbcd83be96e331afc"
+    },
+    {
+      "year": 115,
+      "brackets": [
+        { "upTo": 610000, "rate": 0.05, "progressiveDifference": 0 },
+        { "upTo": 1380000, "rate": 0.12, "progressiveDifference": 42700 },
+        { "upTo": 2770000, "rate": 0.20, "progressiveDifference": 153100 },
+        { "upTo": 5190000, "rate": 0.30, "progressiveDifference": 430100 },
+        { "upTo": null, "rate": 0.40, "progressiveDifference": 949100 }
+      ],
+      "exemption": 101000,
+      "exemptionAge70": 151500,
+      "standardDeductionSingle": 136000,
+      "standardDeductionSpouse": 272000,
+      "salarySpecialDeductionCap": 227000,
+      "savingsInvestmentDeductionCap": 270000,
+      "basicLivingPerPerson": 213000,
+      "basicLivingProvisional": true,
+      "nhiRate": 0.0211,
+      "nhiDividendInterestRentThreshold": 20000,
+      "nhiPartTimeSalaryThreshold": 29500,
+      "nhiMaxPerPayment": 10000000,
+      "dividendCreditRate": 0.085,
+      "dividendCreditCap": 80000,
+      "dividendSeparateRate": 0.28,
+      "usWithholdingDefaultRate": 0.30,
+      "usAmtWarningThreshold": 1000000,
+      "sourceURL": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=34b463dc8f1b49f29d440d92a6fd5139",
+      "backupSourceURL": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num12/Eg.pdf"
+    }
+  ]
+}
